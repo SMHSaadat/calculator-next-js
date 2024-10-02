@@ -39,7 +39,7 @@ export default function Home() {
       <br />
       <Btn txt="+" />
       <Btn txt="4" />
-      <Btn txt="5" />
+      <Btn txt="55" />
       <Btn txt="6" />
       <br />
       <Btn txt="0" />
