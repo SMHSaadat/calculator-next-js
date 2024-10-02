@@ -35,7 +35,7 @@ export default function Home() {
       <Btn txt="-" />
       <Btn txt="1" />
       <Btn txt="2" />
-      <Btn txt="3" />
+      <Btn txt="33" />
       <br />
       <Btn txt="+" />
       <Btn txt="4" />
